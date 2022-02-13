@@ -1,4 +1,4 @@
-# CS4243_2022
+# CS4243
 Computer Vision and Pattern Recognition, NUS CS4243, 2022
 
 
